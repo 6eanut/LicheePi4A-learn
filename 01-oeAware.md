@@ -9,6 +9,7 @@
   * [Enable the analysis mode (riscv64)](https://gitee.com/openeuler/oeAware-manager/commit/002956be4d0bee2a4dcc52c9f31f6f84cbb2fb5e)
   * [add hwprobe_analysis for RISC-V](https://gitee.com/openeuler/oeAware-manager/commit/97cdf931df2e920dfd50809420b65a2c3d0a8310)
   * [add hwprobe_tune/hwprobe_ext_zbb_tune for RISC-V](https://gitee.com/openeuler/oeAware-manager/commit/f1f96c8c4b19950506603e82c6e582eb406c000e)
+  * [docs : add documentation for "developing RISC-V proprietary instances using hwprobe"](https://gitee.com/openeuler/oeAware-manager/pulls/255)
 * libkperf
   * [support riscv64](https://gitee.com/openeuler/libkperf/commit/c09a56213d9e14f4a0b698eda9c43abe8e3fe4ef)
 
