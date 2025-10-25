@@ -5,3 +5,5 @@
 [01-oeAware](01-oeAware.md)
 
 [02-Fixing Dynamic IP with Avahi](02-fdiwa.md)
+
+[03-DeepSeek on lp4a](03-deepseek.md)
